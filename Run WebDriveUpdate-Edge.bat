@@ -1,0 +1,1 @@
+WebDriver-Update.exe --title "WebDriver update" --url "https://msedgedriver.microsoft.com/125.0.2535.51/edgedriver_win32.zip" --path "%~dp0bin\SeleniumBasic\download" /unzip

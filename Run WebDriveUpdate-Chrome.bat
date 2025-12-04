@@ -1,0 +1,1 @@
+WebDriver-Update.exe --title "WebDriver update" --url "https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.202/win32/chromedriver-win32.zip"  --path "%~dp0bin\SeleniumBasic\download" /unzip

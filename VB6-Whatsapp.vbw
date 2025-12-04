@@ -1,0 +1,11 @@
+frmWhatsapp = 823, 0, 1630, 936, C, 344, 81, 1560, 705, C
+mdlWebView2 = 52, 52, 1268, 676, C
+mdlWhatsapp = 0, 0, 823, 936, 
+mdlQRCode = 26, 26, 1372, 452, C
+frmQRScan = 162, 29, 1312, 653, C, 941, 32, 1305, 425, C
+fmrOption = 130, 130, 514, 771, , 104, 104, 549, 745, C
+mdlAplication = 820, 159, 1518, 875, Z
+mdlSelenium = 835, 271, 1645, 937, 
+mdlHTMLFunctions = 104, 104, 1194, 728, C
+frmViewer = 78, 78, 1288, 702, C, 78, 78, 1288, 702, C
+frmListEmojis = 312, 312, 1522, 936, , 286, 286, 1496, 910, C
